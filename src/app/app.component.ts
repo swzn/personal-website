@@ -27,12 +27,8 @@ export class AppComponent implements AfterViewInit, OnDestroy {
   role = 'Fullstack Software Developer';
   tagline = 'I architect and build full-stack platforms — from backend systems to the UIs on top of them.';
 
-  bio = `I'm a Fullstack Software Developer currently building a self-onboarding platform
-     and workflow engine at Morgan Stanley, working across Java, Spring Boot, Angular, and
-     PostgreSQL. Before that, I spent two years at AWS modernizing a legacy system exceeding
-     2M lines of code into Java/Spring Boot and Angular for a major Canadian investment firm.
-     I graduated from McGill University with a B.Sc in Honours Computer Science (GPA 3.73, First
-     Class Honours), with a focus on the theoretical and algorithmic side of software development.`;
+  bio = `I'm a Fullstack Software Developer currently working at Morgan Stanley. I'm passionate about backend development, software 
+  architecture and analytical programming.`;
 
   skills = ['Java', 'Spring Boot', 'Angular', 'TypeScript', 'PostgreSQL', 'AWS', 'Python', 'SQL', 'Software Architecture'];
 
